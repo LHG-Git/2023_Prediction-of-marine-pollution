@@ -1,7 +1,7 @@
 # 2023_Prediction-of-marine-pollution
-📝 2023년 데이터 분석 개인 프로젝트
+📈 2023년 데이터 분석 개인 프로젝트
 <div align="center">
-  <h1>📝 개인 프로젝트<br><br>
+  <h1>📈 개인 프로젝트<br><br>
   🚢 해양정보를 활용한 해양오염 예측</h1>
 </div>
 
